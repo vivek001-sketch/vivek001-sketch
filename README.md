@@ -43,8 +43,8 @@
 
 ## 📊 GitHub Stats  
 
-![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)  
+![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivek001-sketch&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vivek001-sketch&theme=radical)  
 
 ---
 
