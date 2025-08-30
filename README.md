@@ -1,7 +1,6 @@
 <p align="center">
   <img src="IMG_20250830_215913.png" alt="Vivek Chaurasia — Cloud Engineer | Python Developer | UI/UX Engineer" />
 </p>
-
 # Hi 👋, I'm Vivek Chaurasia  
 
 🎓 B.Tech Computer Science Student at **Cooch Behar Government Engineering College**  
