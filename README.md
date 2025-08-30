@@ -3,7 +3,7 @@
 </p>
 
 
-# Hi 👋, I'm Vivek Chaurasia  
+*** Hi 👋, I'm Vivek Chaurasia ***  
 
 🎓 B.Tech Computer Science Student at **Cooch Behar Government Engineering College**  
 💡 Passionate about **Python Programming, Cloud Computing & AI/ML**  
