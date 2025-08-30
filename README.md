@@ -61,8 +61,8 @@
 
 ## 📫 Let's Connect  
 
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)  
-- [GitHub](https://github.com/YOUR_GITHUB_USERNAME)  
+- [LinkedIn](https://in.linkedin.com/in/vivek-chaurasia-8b502b1ba)  
+- [GitHub](https://github.com/vivek001-sketch)  
 - ✉️ Email: vivekchaurasia618@gmail.com  
 
 ---
